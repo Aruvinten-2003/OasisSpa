@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">OasisSpa</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="txtSpaService1">Relaxing Massage – Experience full-body relaxation and stress relief.</string>
+    <string name="txtSpaService2">Aromatherapy Facial – Rejuvenate your skin with our signature oils.</string>
+    <string name="txtSpaAddress">1268 Andrew Lane&#10;Pond, OK 43277&#10;555-332-3366</string>
+    <string name="txtTitle">Oasis Spa Services</string>
+    <string name="menu_services">Spa Services</string>
+    <string name="menu_address">Spa Address</string>
+    <string name="menu_website">Full Web Site</string>
+    <string name="fab">Contact us</string>
+
+
+
+</resources>
